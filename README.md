@@ -1,8 +1,11 @@
 # TP1 - IHC
 
 Curso:
+
 Integrantes:
+
 Docente:
+
 Sistema:
 
 (Inserir objetivos do trabalho e especificar cada processo de avaliação)
